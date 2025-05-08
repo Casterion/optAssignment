@@ -1,0 +1,7 @@
+Neural networks are powerful AI models inspired by the human brain consisting of layers of interconnected neurons that process information and identify patterns.
+
+The key principle behind their functioning is the adjustment of weights between these connections through training enabling the network to refine its predictions 
+over time however neural networks do not truly learn as humans do rather they minimize a function to find an optimal solution typically settling at a local
+minimum and only rarely reaching the global minimum also basic perceptrons and gradient descent once foundational techniques, are now largely obsolete as
+more efficient alternatives have been developed that being said understanding these early methods is crucial as they provide the foundation
+for comprehending more advanced models
